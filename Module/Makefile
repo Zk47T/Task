@@ -1,5 +1,4 @@
-# Makefile for Kernel Module
-
+#Makefile for the module 
 obj-m += encrypt_mod.o
 
 all:
