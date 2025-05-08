@@ -106,5 +106,5 @@ module_init(encrypt_init);
 module_exit(encrypt_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
-MODULE_DESCRIPTION("Simple encrypt/decrypt driver");
+MODULE_AUTHOR("Zk47");
+MODULE_DESCRIPTION("Linux driver to encrypt/decrypt strings with build, load, usage guide, and screenshots.");
